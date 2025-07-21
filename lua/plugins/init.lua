@@ -25,4 +25,7 @@ return {
   -- 		},
   -- 	},
   -- },
+
+  -- Vivify markdown render
+  { "jannis-baum/vivify.vim", ft = "markdown" },
 }
