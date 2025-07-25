@@ -7,7 +7,7 @@
 # Installation
 
 ```bash
-https://github.com/lgisler/starter.git ~/.config/nvim
+gh repo clone lgisler/starter ~/.config/nvim
 ```
 
 # Credits
